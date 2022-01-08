@@ -434,7 +434,7 @@ body {
   background-color: transparent; }
 
 /* MODALS -> SEARCH SERVER */
-.container-3ayLPN {
+.container-3AL15u {
   background-color: var(--popout-color) !important;
   border-radius: var(--popout-radius);
   box-shadow: var(--popout-shadow) !important;
@@ -695,12 +695,12 @@ body {
  *	CONTEXT MENU
  *
  */
-.item-1tOPte {
+.item-1OdjEX {
   border-radius: var(--popout-radius); }
-  .item-1tOPte.colorBrand-ROmMP1 {
+  .item-1OdjEX.colorBrand-ROmMP1 {
     color: var(--app-accent); }
 
-.colorDefault-2K3EoJ.focused-3afm-j, .colorDefault-2K3EoJ:active:not(.hideInteraction-1iHO1O) {
+.colorDefault-CDqZdO.focused-3qFvc8, .colorDefault-CDqZdO:active:not(.hideInteraction-2jPGL_) {
   background-color: var(--background-modifier-selected);
   background-image: var(--app-accent-image); }
 
@@ -1210,12 +1210,12 @@ input::-webkit-input-placeholder {
   background: var(--app-accent);
   filter: saturate(var(--saturation-factor)); }
 
-.grabber-3mFHz2 {
+.grabber-2GQyvM {
   background-color: var(--app-accent-text);
   border: none;
   filter: saturate(var(--saturation-factor)); }
 
-.volumeSlider-sR5g00 .grabber-3mFHz2 {
+.volumeSlider-sR5g00 .grabber-2GQyvM {
   width: 12px;
   height: 12px;
   background-color: #fff; }
@@ -1574,13 +1574,13 @@ input::-webkit-input-placeholder {
     [class*="theme-"] .checkbox-1ix_J3.checked-3_4uQ9 path {
       fill: var(--app-accent-text) !important; }
 
-.colorDefault-2K3EoJ .checkbox-3s5GYZ {
+.colorDefault-CDqZdO .checkbox-3s5GYZ {
   color: var(--app-accent); }
-.colorDefault-2K3EoJ .check-1JyqgN {
+.colorDefault-CDqZdO .check-1JyqgN {
   color: var(--app-accent-text); }
-.colorDefault-2K3EoJ.focused-3afm-j .checkbox-3s5GYZ {
+.colorDefault-CDqZdO.focused-3qFvc8 .checkbox-3s5GYZ {
   color: var(--app-accent); }
-.colorDefault-2K3EoJ.focused-3afm-j .check-1JyqgN {
+.colorDefault-CDqZdO.focused-3qFvc8 .check-1JyqgN {
   color: var(--app-accent-text); }
 
 /* CHECKBOXES -> SPECIAL COLORS */
@@ -1836,11 +1836,11 @@ input::-webkit-input-placeholder {
  *	STATUS PICKER
  *
  */
-.menu-3sdvDG {
+.menu-1QACrS {
   background-color: transparent ;
   border-radius: var(--popout-radius);
   overflow: hidden; }
-  .menu-3sdvDG:before {
+  .menu-1QACrS:before {
     position: absolute;
     content: " ";
     width: 100%;
@@ -2106,7 +2106,7 @@ input::-webkit-input-placeholder {
     background-color: var(--mention-color);
     color: var(--mention-hover-color); }
 
-.wrapper-2aW0bm {
+.wrapper-2vIMkT {
   background-color: var(--popout-color) ;
   border-radius: var(--popout-radius);
   box-shadow: var(--popout-shadow) ;
@@ -2194,11 +2194,11 @@ input::-webkit-input-placeholder {
   background-color: var(--messages-color) !important; }
 
 /* CHAT AREA -> MESSAGES -> ACTIONS */
-.button-1ZiXG9:first-child {
+.button-3bklZh:first-child {
   border-radius: var(--popout-radius) 0 0 var(--popout-radius); }
-.button-1ZiXG9:last-child {
+.button-3bklZh:last-child {
   border-radius: 0 var(--popout-radius) var(--popout-radius) 0; }
-.button-1ZiXG9:only-child {
+.button-3bklZh:only-child {
   border-radius: var(--popout-radius); }
 
 /* CHAT AREA -> MESSAGES -> EMBEDDED */
@@ -2813,7 +2813,7 @@ input::-webkit-input-placeholder {
 .contentRegionScroller-26nc1e {
   background-color: transparent; }
 
-.side-8zPYf6 .item-PXvHYJ,
+.side-8zPYf6 .item-3XjbnG,
 #bd-settings-sidebar .ui-tab-bar-item {
   border-radius: var(--button-radius); }
 
@@ -3311,14 +3311,14 @@ input::-webkit-input-placeholder {
   height: auto; }
 
 /* SERVER SETTINGS -> SERVER BOOST STATUS */
-.side-8zPYf6 .item-PXvHYJ[style="color: rgb(114, 137, 218);"] {
+.side-8zPYf6 .item-3XjbnG[style="color: rgb(114, 137, 218);"] {
   color: var(--app-accent) !important; }
 
-.side-8zPYf6 .item-PXvHYJ[style="color: rgb(114, 137, 218); background-color: rgba(114, 137, 218, 0.1);"] {
+.side-8zPYf6 .item-3XjbnG[style="color: rgb(114, 137, 218); background-color: rgba(114, 137, 218, 0.1);"] {
   background-color: rgba(var(--app-accent-rgb), 0.1) !important;
   color: var(--app-accent) !important; }
 
-.side-8zPYf6 .item-PXvHYJ[style*="background-color: rgb(114, 137, 218)"] {
+.side-8zPYf6 .item-3XjbnG[style*="background-color: rgb(114, 137, 218)"] {
   background-color: var(--app-accent) !important;
   color: var(--app-accent-text) !important; }
 
@@ -3472,14 +3472,14 @@ input::-webkit-input-placeholder {
     background-color: var(--card-color); }
 
 /* HOME TAB -> FRIENDS */
-.actionButton-uPB8Fs,
-.actionButton-uPB8Fs.highlight-Lf97TE {
+.actionButton-3-B2x-,
+.actionButton-3-B2x-.highlight-Lf97TE {
   background-color: var(--main-content-color); }
 
-.tabBody-3YRQ8W:before {
+.tabBody-2dgbAs:before {
   display: none; }
 
-.peopleListItem-2nzedh:last-of-type {
+.peopleListItem-u6dGxF:last-of-type {
   margin-bottom: 16px; }
 
 .tabBar-ZmDY9v .item-3HknzM[style*="background-color: rgb(67, 181, 129)"] {
